@@ -1,0 +1,1 @@
+angular.module('ElQuiroProfe', ['ngRoute','ngResource','angularFileUpload'])
